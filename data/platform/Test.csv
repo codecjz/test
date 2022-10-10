@@ -1,0 +1,3 @@
+编号,所属板块,URL,是否运行,请求方式,请求头,依赖用例,依赖用例数据,,测试数据,预期结果,实际结果,测试结果,测试时间
+platform_login,account,,yes,post,,,,,login,"""code""=0",,,
+platfrom_videolist,平台视频源,,yes,get,platformWithToken,,,,,,,,

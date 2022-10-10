@@ -1,0 +1,7 @@
+{
+  "login": {
+    "transId": "string",
+  "account": "string",
+  "passWord": "string"
+  }
+}

@@ -1,0 +1,6 @@
+testCaseDir: ../data/platform/Test.csv
+testDataJsonDir: ../data/platform/data.json
+headerJson: ../data/header.json
+reportPath: ../report/
+loggerConfigPath: ../conf/logger.conf
+requestPrefix: http://10.1.40.189/api/v1
